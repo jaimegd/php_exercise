@@ -3,7 +3,7 @@ Hi,
 Instead of having the code on Word I decided to put all the code in the <br />
 file index.php.<br /><br />
 
-Normally I would have a frameworks and using OO, however for this exercice <br />
+Normally I would have a framework and using OO, however for this exercice <br />
 I dediced just to have one file.<br /><br />
 
 So you can run in the terminal: php index.php # [params] <br />
@@ -24,8 +24,8 @@ php index.php 3 4
 For question 4: <br />
 php index.php 4 10 2,4,5,8,10,20,30<br />
 
-In this case you are executing function 4, sending 10 as the number to look<br />
-and you can send an array in this case: 2,4,5,8,10,20,30<br />
+In this case you are executing function 4, sending 10 as the number to look up<br />
+and you ared sending the array: 2,4,5,8,10,20,30<br />
 
 
 For question 5, 6 and 7: <br />
