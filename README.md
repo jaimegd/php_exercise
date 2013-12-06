@@ -1,9 +1,12 @@
 Hi,
 
-Instead of having the code on Worp I decided to put all the code in the 
+Instead of having the code on Word I decided to put all the code in the \n
 file index.php.
 
-So you can run on the terminal: php index.php # [params]
+Normally I would have a frameworks and using OO, however for this exercice \n
+I dediced just to have one file.
+
+So you can run in the terminal: php index.php # [params] \n
 Example:
 
 For question 1: 
